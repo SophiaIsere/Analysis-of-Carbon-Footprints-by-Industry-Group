@@ -1,4 +1,4 @@
-# Analysis-of-Carbon-Footprints-by-Industry-Group
+# Analysis-of-Carbon-Footprints-by-Industry-Group-Using-SQL
 ![intro](carbon_intro.jpeg)
 ## Introduction
 As global awareness of climate change and environmental impact grows, understanding carbon emissions from various industries has become crucial. This project analyzes the carbon footprints of different industry groups using data from the product_emissions table. The aim is to identify the number of unique companies in each industry group and their total carbon footprint for the most recent year available in the dataset. This analysis provides insights into which industries contribute significantly to carbon emissions, aiding in the formulation of strategies for reduction.
